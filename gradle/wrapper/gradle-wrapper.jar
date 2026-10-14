@@ -1,2 +1,0 @@
-git add --force gradle/wrapper/gradle-wrapper.jar
-git commit -m "Add gradle-wrapper.jar"
